@@ -58,6 +58,8 @@ Sound effects envolve all generic souns, these sounds can go from gunshots to wa
 
 Foley is the most common technique used in this type of recording, so it’s worth to know about its existence.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_MOFMa-Lt78?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - Music (MX)
 
 These gropes all the music data, from simple single instrument sounds to full singed songs.
