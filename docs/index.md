@@ -76,6 +76,47 @@ Background overtakes any sound effect that plays in the rear of the main action.
 
 The audio bible refers to one important document, the Audio design document, which contains all the important data about audio. 
 
+This document is used for large development groups, it contains things such as the audio pillars, music styles, sound effects between some others which I'll discuss later, these can be used to coordinate all the team and help new additions adapt quicker and with ease.
+
+- Synopsis
+
+A description of the game must be provided, which explains the main concepts of the game in order to let us know what type of project we are pursuing alongside with a link or documentation of de GDD.
+
+- Audio pillars
+
+These pillars resemble the ones used for the game, but focused on the audio aspect of it.
+
+- Sound effects
+
+In these parts we must define the sound palette where we will find all sounds needed,Ambience sounds are all the background noises and Dynamic range which basically means the distance in which a sound can be heard.
+
+- Music
+
+On the music side we must describe its style, the instrumentation that is going to be needed, the methodology of recording and once again the range.
+
+- Dialog
+
+The dialog category will consist of a list containing all the characters that will need to be recorded, voice types, an orientation of the characters attitude, special effects for the voices, the cast size needed and the scripts.
+
+- Technology
+
+In here we will need to list the budget, space limit, file formats, platforms that are going to be used, all the instruments needed for recording and implementing the audio in the game.
+
+- Naming Conventions
+
+All the rules about the files and audio naming.
+
 ### Links
 
+PowerPoint:
 https://docs.google.com/presentation/d/1ZQBcWx4gOJCuDjvSRwI3MFVYu0bWLBadUluMPchFZFg/edit?usp=sharing
+Convert:
+https://audio.online-convert.com/es/convertir-a-ogg
+Audio/music:
+https://freemusicarchive.org/home
+Audio/music:
+https://board.flashkit.com/board/
+Audio/music:
+https://freesound.org/
+Source:
+https://eduardiko.github.io/
