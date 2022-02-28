@@ -75,3 +75,7 @@ Background overtakes any sound effect that plays in the rear of the main action.
 ### Audio Bible
 
 The audio bible refers to one important document, the Audio design document, which contains all the important data about audio. 
+
+### Links
+
+https://docs.google.com/presentation/d/1ZQBcWx4gOJCuDjvSRwI3MFVYu0bWLBadUluMPchFZFg/edit?usp=sharing
